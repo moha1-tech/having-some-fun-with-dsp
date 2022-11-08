@@ -1,0 +1,5 @@
+menuitem "Decalage"
+slider Decalage(8,16,1,1,nom_param) {
+	k = nom_param;
+
+}

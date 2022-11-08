@@ -1,0 +1,5 @@
+menuitem "PAS"
+slider PAS(37,44,1,1,nom_param) {
+	PAS=nom_param;
+
+}

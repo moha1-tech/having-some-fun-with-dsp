@@ -1,0 +1,5 @@
+menuitem "Division"
+slider Division(1,10,1,1,nom_param) {
+	D = nom_param;
+
+}
